@@ -1,2 +1,2 @@
-# desenvolvimento_web
-Nesse site eu treinei minhas habilidades com html e css
+# Desenvolvimento Web
+Nesse site eu treinei minhas habilidades com Html e Css.

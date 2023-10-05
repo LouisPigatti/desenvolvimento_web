@@ -1,0 +1,62 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+}
+
+h1 {
+    text-align: center;
+}
+
+.par_inicial {
+    margin-top: 70px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.opcoes {
+    margin-top: 60px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 40px;
+}
+
+.desenvolvimento {
+    text-decoration: none;
+    color: grey;
+}
+
+
+.http {
+    text-decoration: none;
+    color: grey;
+}
+
+.front {
+    text-decoration: none;
+    color: grey;
+}
+
+.web {
+    transition: transform 1s;
+}
+
+.web:hover {
+    transform: scale(1.3);
+}
+
+.protocolo {
+    transition: transform 1s;
+}
+
+.protocolo:hover {
+    transform: scale(1.3);
+}
+
+.end {
+    transition: transform 1s;
+}
+
+.end:hover {
+    transform: scale(1.3);
+}

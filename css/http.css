@@ -29,3 +29,15 @@ ul {
     display: flex;
     flex-direction: column;
 }
+
+@media (max-width:500px) {
+    p {
+        text-align: justify;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .home {
+        text-align: center;
+    }
+}
